@@ -1,2 +1,2 @@
-# WS-pancake
-### 👋 ini dibuat sebagai dokumentasi WS kemenperin khususnya Biro OSDM :fire:
+# WS-Intern
+### 👋 ini dibuat sebagai dokumentasi WebService kemenperin khususnya Biro OSDM :fire:
